@@ -11,3 +11,8 @@ function lone(str) {
     }
     return arr.join('')
 }
+
+
+
+let word = 'werey'
+console.log(word.indexOf('r'));
