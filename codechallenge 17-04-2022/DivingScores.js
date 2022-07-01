@@ -21,3 +21,6 @@ function scoreOfDive(scores, tariff) {
 function scoreOfDive(scores, tariff) {
     return ([...scores].sort((a,b)=>a-b).slice(2,-2).reduce((s,n)=>s+n,0)*tariff).toFixed(2);
   }
+
+let num =11
+ console.log (Math.floor(num))
