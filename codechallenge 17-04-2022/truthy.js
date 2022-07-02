@@ -11,4 +11,5 @@
 
 
 const truthy = [1, 2, 3, 4, 5]
-const falsy = [null,undefined,0,false,'']
+const falsy = [null, undefined, 0, false, '']
+console.log(falsy)
